@@ -6,7 +6,7 @@ import Form from "./components/Form";
 function App() {
   return (
     <div className="App">
-      <div className="auth-wraper">
+      <div className="auth-wrapper">
         <div className="auth-inner">
           <Switch>
             <Route exact path="/" Component={Form} />
