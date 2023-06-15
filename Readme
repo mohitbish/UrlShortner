@@ -1,3 +1,7 @@
-npm i express mongoose ejs
-npm i --save-dev nodemon
-npm i shortid
+
+Server setup =>
+    npm i express mongoose ejs
+    npm i --save-dev nodemon
+    npm i shortid
+
+    
